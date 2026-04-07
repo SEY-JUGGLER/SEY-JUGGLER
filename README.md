@@ -96,7 +96,7 @@
 </p>-->
 
 ---
-
+<!--
 ## 🧠 Top Langages
 
 <p align="center">
@@ -104,7 +104,7 @@
 </p>
 
 ---
-
+-->
 ## 🐍 Contribution Snake (animation)
 
 <p align="center">
@@ -112,7 +112,7 @@
 </p>
 
 ---
-
+<!--
 ## 🌌 Animation Background (Particles Style)
 
 <p align="center">
@@ -146,4 +146,4 @@
 
 <p align="center">
   <i>"I build real-world solutions with code, not just projects."</i>
-</p>
+</p> -->
